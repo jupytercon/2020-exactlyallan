@@ -12,6 +12,12 @@ You can delete this file (or rename it) and replace it by a README file that tar
 - Tania Allard, Microsoft
 - Gerard Gorman, University College London
 
+
+## Install the Environment
+```bash
+conda env create --name test_dev --file environment.yml
+conda activate test_dev
+```
 ## General information
 
 JupyterCon 2020 is an online event that places heavy emphasis on providing learning opportunities for all participants. 
