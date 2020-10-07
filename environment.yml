@@ -8,7 +8,7 @@ channels:
 - plotly
 - anaconda
 dependencies:
-- cuxfilter=0.16
+- cuxfilter>=0.16.0a201007
 - cuspatial=0.16
 - cugraph=0.16
 - cudatoolkit=10.2
